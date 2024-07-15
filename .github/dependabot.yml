@@ -21,5 +21,3 @@ updates:
     commit-message:
       prefix: "ci(deps)"
       prefix-development: "ci(deps-dev)"
-    reviewers:
-      - "dswan36"
